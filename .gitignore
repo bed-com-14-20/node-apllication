@@ -1,6 +1,6 @@
-# node
+# In npm
 /node_modules
 package-lock.json
 
-
-# env
+# ENV
+.env
